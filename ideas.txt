@@ -1,0 +1,6 @@
+Ideas:
+
+1. spotify api web
+2. ai arena (ais fighting eachother)
+3. audio processing
+4. fitness with pose detection
